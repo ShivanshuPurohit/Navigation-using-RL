@@ -101,7 +101,4 @@ Then, place the file in this folder, and unzip (or decompress) the file.  Next, 
 
 Use the `requirements.txt` file to install the required dependencies via `pip`.
 
-```
-pip install -r requirements.txt
-
-```
+```pip install -r requirements.txt```
