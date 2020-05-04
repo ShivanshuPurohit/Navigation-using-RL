@@ -60,8 +60,8 @@ Follow the instructions in `Navigation.ipynb` to get started with training your 
 To watch a trained smart agent, follow the instructions below:
 
 - **DQN**: If you want to run the original DQN algorithm, use the checkpoint `dqn.pth` for loading the trained model. Also, choose the parameter `qnetwork` as `QNetwork` while defining the agent and the parameter `update_type` as `dqn`.
-- **Double DQN**: If you want to run the Double DQN algorithm, use the checkpoint `ddqn.pth` for loading the trained model. Also, choose the parameter `qnetwork` as `QNetwork` while defining the agent and the parameter `update_type` as `double_dqn`.
-- **Dueling Double DQN**: If you want to run the Dueling Double DQN algorithm, use the checkpoint `dddqn.pth` for loading the trained model. Also, choose the parameter `qnetwork` as `DuelingQNetwork` while defining the agent and the parameter `update_type` as `double_dqn`.
+- **Double DQN**: If you want to run the Double DQN algorithm, use the checkpoint `double_dqn.pth` for loading the trained model. Also, choose the parameter `qnetwork` as `QNetwork` while defining the agent and the parameter `update_type` as `double_dqn`.
+- **Dueling Double DQN**: If you want to run the Dueling Double DQN algorithm, use the checkpoint `dueling_double_dqn.pth` for loading the trained model. Also, choose the parameter `qnetwork` as `DuelingQNetwork` while defining the agent and the parameter `update_type` as `double_dqn`.
 
 ### Enhancements
 
