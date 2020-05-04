@@ -56,7 +56,7 @@ env = env = UnityEnvironment(file_name="Banana.app")
 
 ### Instructions
 
-Follow the instructions in `Navigation_solution.ipynb` to get started with training your own agent! 
+Follow the instructions in `Navigation.ipynb` to get started with training your own agent! 
 To watch a trained smart agent, follow the instructions below:
 
 - **DQN**: If you want to run the original DQN algorithm, use the checkpoint `dqn.pth` for loading the trained model. Also, choose the parameter `qnetwork` as `QNetwork` while defining the agent and the parameter `update_type` as `dqn`.
