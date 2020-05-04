@@ -73,7 +73,7 @@ Several enhancements to the original DQN algorithm have also been incorporated:
 
 ### Results
 
-Plot showing the score per episode over all the episodes. The environment was solved in **377** episodes (currently).
+Plot showing the score per episode over all the episodes. The environment was solved in **466** episodes.
 
 | Double DQN | DQN |
 :-------------------------:|:-------------------------:|
